@@ -1,0 +1,36 @@
+{
+  "name": "my-proj-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "aos": "^3.0.0-beta.6",
+    "html-entities": "^2.5.2",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-multi-carousel": "^2.8.4",
+    "react-tsparticles": "^2.12.2",
+    "react-type-animation": "^3.2.0",
+    "tsparticles-engine": "^2.12.0",
+    "tsparticles-slim": "^2.12.0"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  }
+}
