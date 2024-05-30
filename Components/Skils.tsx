@@ -33,18 +33,18 @@ const Skils = () => {
       <SkilsLanguage 
        skill1="Java"
        skill2="Spring Boot"
-       skill3="Node.js"
+       skill3="Next.js"
        skill4="Hibernate (ORM)"
        skill5="Postman"
        skill6="AWS"
        skill7="Docker"
        level1="w-[71%]"
        level2="w-[95%]"
-       level3="w-[62%]"
+       level3="w-[86%]"
        level4="w-[94%]"
-       level5="w-[57%]"
-       level6="w-[57%]"
-       level7="w-[57%]"
+       level5="w-[75%]"
+       level6="w-[92%]"
+       level7="w-[82%]"
       />
     </div>
       </div>

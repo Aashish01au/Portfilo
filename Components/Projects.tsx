@@ -11,39 +11,39 @@ const Projects = () => {
       <div className='w-[80%] pt-[2rem] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem]'>
         <div data-aos="fade-up">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-           <a href='https://aashish01.netlify.app/' target='_blank'> <Image src='/images/p1.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+           <a href='https://aashish01.netlify.app/' target='_blank'> <Image src='/images/jewel.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center '> Socheko (E-Commerce Website)</p>
+            
         </div>
         <div data-aos="fade-up" data-aos-delay="300">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-            <a href='https://aashish01.netlify.app/' target='_blank'><Image src='/images/p2.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+            <a href='https://comfy-madeleine-96986b.netlify.app/' target='_blank'><Image src='/images/ecommeerce.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center'> Jewel (E-Commerce Website)</p>
+            
         </div>
         <div data-aos="fade-up" data-aos-delay="600">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-            <a href='https://aashish01.netlify.app/' target='_blank'> <Image src='/images/p7.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+            <a href='https://inquisitive-froyo-0be500.netlify.app/' target='_blank'> <Image src='/images/istore.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center '> Presonal Portfilo (React) </p>
+           
         </div>
         <div data-aos="fade-up" data-aos-delay="900">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-            <a href='https://aashish01.netlify.app/' target='_blank'><Image src='/images/p5.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+            <a href='https://amazing-truffle-9228ed.netlify.app/' target='_blank'><Image src='/images/travel.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center'> E-Hospital ( Java Back-End project) </p>
+           
         </div>
         <div data-aos="fade-up" data-aos-delay="1200">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-            <a href='https://aashish01.netlify.app/' target='_blank'> <Image src='/images/p6.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+            <a href='https://pds-three.vercel.app' target='_blank'> <Image src='/images/dashboard.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center '> E-Business Management System ( Java project-2)</p>
+          
         </div>
         <div data-aos="fade-up" data-aos-delay="1600">
             <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]'>
-            <a href='https://aashish01.netlify.app/' target='_blank'><Image src='/images/p2.png' alt='portfolio' layout='fill' className='object-contain'/></a>
+            <a href='https://amrit-kosh-dash-board-hofeqo9ja-aashish01aus-projects.vercel.app/' target='_blank'><Image src='/images/amritkosh.png' alt='portfolio' layout='fill' className='object-contain'/></a>
             </div>
-            <p className='text-white text-center'> Jewel (E-Commerce Website)</p>
+           
         </div>
       </div>
     </div>

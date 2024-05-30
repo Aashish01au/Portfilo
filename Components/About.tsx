@@ -19,7 +19,7 @@ const About = () => {
             Being a frontend developer with sound knowledge of HTML, CSS , react and JavaScript among others, I am keen to carry out the development of user-friendly and indeed visually attractive interfaces. Systematic, user-centric approach is vital. Through conversion of design ideas to actual things, I keep myself updated with new technologies on the web.
             </p>
         </div>
-<Link href=''>
+<Link href='https://lime-aile-88.tiiny.site/' target='_blank'>
         <button className='px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2'>
             <p>Download Cv</p>
             <ArrowDownCircleIcon className='w-[1.6rem] h-[1.7rem] text-black' />
