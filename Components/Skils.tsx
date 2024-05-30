@@ -12,7 +12,7 @@ const Skils = () => {
       <Skilsitem title="Front-End Developer" year="2023 [Feb-Aug]" institues="Broadway Infosys IT Learning Center Nepal"  place=" Tinkune Kathmandu NEPAL "/>
       <SkilsLanguage 
       skill1="HTML"
-      skill2="SCSS"
+      skill2="CSS"
       skill3="Bootstrap"
       skill4="Tailwind"
       skill5="Ract vue.js"
