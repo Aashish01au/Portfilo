@@ -27,7 +27,7 @@ const Hero = () => {
           <button className='flex items-center space-x-2'>
             <PlayCircleIcon className='w-[4rem] h-[4rem] hover:text-yellow-400 transition-all duration-200 text-[#55e6a5]'/>
             <p className='text-[20px] font-semibold text-white'>
-              watch This video</p>
+              MY SERVICES</p>
           </button>
         </div>
         </div>
